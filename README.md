@@ -8,7 +8,7 @@
 
 </div>
 
-Computer Engineering student @ UTFPR, graduating this year. Worked in backend and desktop C++ development and currently interested on learning web security. Passionate about building efficient and reliable systems.
+Computer Engineering graduate @ UTFPR. Worked in backend and desktop application development and currently interested in learning web security. Passionate about building efficient and reliable systems. Always a student.
 
 ---
 
