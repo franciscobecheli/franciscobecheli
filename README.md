@@ -26,7 +26,7 @@ Computer Engineering graduate @ UTFPR. Worked in backend and desktop application
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-<div align="center" style="margin: 30px 0;">
+<!-- <div align="center" style="margin: 30px 0;">
   <a href="https://github.com/franciscobecheli">
     <img 
       height="160em" 
@@ -39,12 +39,4 @@ Computer Engineering graduate @ UTFPR. Worked in backend and desktop application
       style="vertical-align: middle;"
     />
   </a>
-</div>
-
----
-
-### 🏅 LeetCode
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/franciscobecheli?theme=dark&hide=ranking,achievements,badge,progress,contest,heatmap,stats&compact=true&font=JetBrains%20Mono&border=0" />
-</div>
+</div> -->
